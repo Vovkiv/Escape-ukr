@@ -1,4 +1,4 @@
-# /Escape/ - Українською
+# Втеча - Українською
 ![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
 /All Twilight wants is to feel appreciated. With her marriage on the rocks and loneliness tugging at her heart, she's desperate for some kind of solution. So when she spots an ad in the paper hinting at a potential romantic rendezvous... well, how could she not be curious? Thinking about it and committing are two entirely different things though, and now that's she's arrived she wonders if this isn't all a big mistake.
