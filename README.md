@@ -8,7 +8,7 @@ That's when an old friend walks through the door./
 [Ця історія складається із 3 фанфіків. Це 1 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/Escape-ukr/blob/main/Escape-ukr.pdf
+пдф файл: https://github.com/Vovkiv/Escape-ukr/blob/main/Escape%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
