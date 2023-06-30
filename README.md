@@ -1,9 +1,8 @@
 # Втеча - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+![обкладинка](https://github.com/Vovkiv/Escape-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/All Twilight wants is to feel appreciated. With her marriage on the rocks and loneliness tugging at her heart, she's desperate for some kind of solution. So when she spots an ad in the paper hinting at a potential romantic rendezvous... well, how could she not be curious? Thinking about it and committing are two entirely different things though, and now that's she's arrived she wonders if this isn't all a big mistake.
-
-That's when an old friend walks through the door./
+Все, що Твайлайт хоче, так це те, щоб її цінували. Її шлюб розвалюється і з почуттям самотності, яке смикало її серце, вона відчайдушно шукає якесь рішення. Тому коли вона помітила рекламу у газеті, яка натякала на потенційне романтичне рандеву... що ж, як це не могло її зацікавити? Думати про це і робити — це дві різні речі, і тепер, коли вона прийшла на місце зустрічі, вона розмірковує, чи не було все це великою помилкою.
+У цей момент, її стара подруга зайшла через двері.
 
 [Ця історія складається із 3 фанфіків. Це 1 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
 
