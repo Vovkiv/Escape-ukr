@@ -35,8 +35,7 @@
 https://www.fimfiction.net/story/413380/escape
 
 # Original cover:
-https://www.deviantart.com/lucy-tan/art/Is-everybody-ready-to-start-725281721
-https://www.deviantart.com/lucy-tan (Ask permision later)
+Made by https://www.deviantart.com/nekojackun specially for author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
