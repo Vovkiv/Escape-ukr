@@ -1,13 +1,13 @@
 # Втеча - Українською
-![обкладинка](https://github.com/Vovkiv/Escape-ukr/blob/main/src/cover-ukr.png?raw=true)
+![обкладинка](src/cover-ukr.png)
 
 Все, що Твайлайт хоче, так це те, щоб її цінували. Її шлюб розвалюється і з почуттям самотності, яке смикало її серце, вона відчайдушно шукає якесь рішення. Тому коли вона помітила рекламу у газеті, яка натякала на потенційне романтичне рандеву... що ж, як це не могло її зацікавити? Думати про це і робити — це дві різні речі, і тепер, коли вона прийшла на місце зустрічі, вона розмірковує, чи не було все це великою помилкою.
 У цей момент, її стара подруга зайшла через двері.
 
-[Ця історія складається із 3 фанфіків. Це 1 частина. Інші ви можете знайти тут: https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate.]
+[Ця історія складається із 3 фанфіків. Це 1 частина. Інші ви можете знайти тут: [https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate).]
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/Escape-ukr/blob/main/Escape%20-%20ukr.pdf
+[пдф файл](Escape%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -32,13 +32,13 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/413380/escape
+[https://www.fimfiction.net/story/413380/escape](https://www.fimfiction.net/story/413380/escape)
 
 # Original cover:
-Made by https://www.deviantart.com/nekojackun specially for author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
+Made by [https://www.deviantart.com/nekojackun](https://www.deviantart.com/nekojackun) specially for author of said fic, PaulAsaran. Permission was granted by PaulAsaran.
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
